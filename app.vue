@@ -9,7 +9,7 @@ import SocialMediaPost from './components/SocialMediaPost.vue'
 </script>
 
 <style>
-/* Add any global styles here */
+
 body {
   font-family: Arial, sans-serif;
   background-color: #f0f2f5;
